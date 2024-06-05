@@ -4,7 +4,7 @@
 --------------
 
 
-**Project-01-Exploratory Data Analysis on Retail Sales Data**
+**Project-01-Exploratory Data Analysis on Retail Sales Data**🔎📶🛒🤑
 
 Description:
  
@@ -27,7 +27,7 @@ Key Concepts and Challenges:
 
 
 
-**Project-02-Customer Segmentation Analysis**
+**Project-02-Customer Segmentation Analysis**🥴🕵️‍♀️🙋‍♂️
 
 Description:
 
@@ -50,7 +50,7 @@ Key Concepts and Challenges:
 
 
 
-**Project-03-Cleaning Data**
+**Project-03-Cleaning Data**🔎🕵️‍♀️🧹
 
 Description:
 
@@ -74,7 +74,7 @@ Description:
  **Level-02**
  ---------------
 
- **Project-01-Predicting House Prices with Linear Regression**
+ **Project-01-Predicting House Prices with Linear Regression**📶🕵️‍♀️🏘️
 
  Description:
  
@@ -97,7 +97,7 @@ Description:
 
 
 
-**Project-02-Wine Quality Prediction**
+**Project-02-Wine Quality Prediction**📶🍷🥂
 
  Description:
  
@@ -116,7 +116,7 @@ Key Concepts and Challenges:
 
 
 
-**Project-05-Autocomplete and Autocorrect Data Analytics**
+**Project-05-Autocomplete and Autocorrect Data Analytics**🧹📝
 
  Description:
  
