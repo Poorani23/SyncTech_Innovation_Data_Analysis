@@ -1,8 +1,8 @@
 # SyncTech_Innovation_Data_Analysis
 
-Level-01
+**Level-01**
 
-Project-01-Exploratory Data Analysis on Retail Sales Data
+**Project-01-Exploratory Data Analysis on Retail Sales Data**
 
 Description:
  
@@ -18,7 +18,7 @@ Key Concepts and Challenges:
  6.Recommendations: Provide actionable recommendations based on the EDA.
 
 
-Project-02-Customer Segmentation Analysis
+**Project-02-Customer Segmentation Analysis**
 
 Description:
 
@@ -34,7 +34,7 @@ Key Concepts and Challenges:
  6.Insights and Recommendations: Analyze characteristics of each segment and provide insights.
 
 
-Project-03-Cleaning Data
+**Project-03-Cleaning Data**
 
 Description:
 
@@ -49,9 +49,9 @@ Description:
  5.Outlier Detection: Identifying and addressing outliers that may skew analysis or model performance.
 
 
- Level-02
+ **Level-02**
 
- Project-01-Predicting House Prices with Linear Regression
+ **Project-01-Predicting House Prices with Linear Regression**
 
  Description:
  
@@ -68,7 +68,7 @@ Learn).
  6.Visualization: Create visualizations to illustrate the relationship between the predicted and actual values.
 
 
-Project-02-Wine Quality Prediction
+**Project-02-Wine Quality Prediction**
 
  Description:
  
@@ -82,7 +82,7 @@ Key Concepts and Challenges:
  4.Data Visualization: Using Seaborn and Matplotlib for visualizing patterns and insights in the dataset.
 
 
-Project-05-Autocomplete and Autocorrect Data Analytics 
+**Project-05-Autocomplete and Autocorrect Data Analytics**
 
  Description:
  
