@@ -1,14 +1,14 @@
 # SyncTech_Innovation_Data_Analysis
 
-#Level-01
+Level-01
 
-#Project-01-Exploratory Data Analysis on Retail Sales Data
+Project-01-Exploratory Data Analysis on Retail Sales Data
 
- Description:
+Description:
  
  In this project, I worked with a dataset containing information about retail sales. The goal is to performed exploratory data analysis (EDA) to uncover patterns, trends, and insights that can helped the retail business make informed decisions.
 
-  Key Concepts and Challenges:
+Key Concepts and Challenges:
   
  1.Data Loading and Cleaning: Load the retail sales dataset.
  2.Descriptive Statistics: Calculate basic statistics (mean, median, mode, standard deviation).
@@ -18,13 +18,13 @@
  6.Recommendations: Provide actionable recommendations based on the EDA.
 
 
-#Project-02-Customer Segmentation Analysis
+Project-02-Customer Segmentation Analysis
 
 Description:
 
  The aim of this data analytics project is to performed customer segmentation analysis for an ecommerce company. By analyzing customer behavior and purchase patterns, the goal is to group customers into distinct segments. This segmentation can inform targeted marketing strategies, improve customer satisfaction, and enhance overall business strategies.
 
- Key Concepts and Challenges:
+Key Concepts and Challenges:
  
  1.Data Collection: Obtain a dataset containing customer information, purchase history, and relevant data.
  2.Data Exploration and Cleaning: Explore the dataset, understand its structure, and handleany missing or inconsistent data.
@@ -34,7 +34,7 @@ Description:
  6.Insights and Recommendations: Analyze characteristics of each segment and provide insights.
 
 
- #Project-03-Cleaning Data
+Project-03-Cleaning Data
 
 Description:
 
@@ -49,9 +49,9 @@ Description:
  5.Outlier Detection: Identifying and addressing outliers that may skew analysis or model performance.
 
 
- #Level-02
+ Level-02
 
- #Project-01-Predicting House Prices with Linear Regression
+ Project-01-Predicting House Prices with Linear Regression
 
  Description:
  
@@ -68,7 +68,7 @@ Learn).
  6.Visualization: Create visualizations to illustrate the relationship between the predicted and actual values.
 
 
- #Project-02-Wine Quality Prediction
+Project-02-Wine Quality Prediction
 
  Description:
  
@@ -82,7 +82,7 @@ Key Concepts and Challenges:
  4.Data Visualization: Using Seaborn and Matplotlib for visualizing patterns and insights in the dataset.
 
 
- #Project-05-Autocomplete and Autocorrect Data Analytics 
+Project-05-Autocomplete and Autocorrect Data Analytics 
 
  Description:
  
